@@ -1,0 +1,84 @@
+img{
+    position: absolute;
+    z-index: -100;
+    width:550px;
+    top:0%;
+}
+
+.member{
+    margin: 80px 0 0 30px;
+}
+
+.bg{
+  height: 1000px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tabs {
+    overflow: hidden;
+    width: 500px;
+  }
+
+  .tabs button{
+    font-size: large;
+    font-weight: bolder;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .tabcontent {
+    height: 750px;
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+  }
+
+  .title{
+      font-size: 50px;
+      font-weight: bolder;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .tabcontent a{
+    padding: 5px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 20%;
+    text-decoration: none;
+    margin: 0 5px;
+  }
+
+  .tabcontent h3, .tabcontent p {
+      font-weight: bolder;
+      font-size: 30px;
+  }
+
+  .back{
+      position:absolute;
+      left: 48%;
+      text-decoration: none;
+      cursor:pointer;
+      padding:8px 50px;
+      color: white;
+  }
+

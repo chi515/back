@@ -1,0 +1,40 @@
+.qbox{
+    align-items: center;
+    margin-top: 30px;
+    height:700px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.q-title{
+    margin-top: 150px;
+    margin-left: 50px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.information span{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+.information{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.information div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.phoneimg{
+    position:absolute;
+    z-index: -100;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20%;
+}

@@ -1,0 +1,54 @@
+.list{
+    display: flex;
+    flex-direction: row;
+    height:500px;
+    width:1200px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    width:100px;
+}
+
+.info span{
+    margin-top: 20px;
+}
+
+.product{
+    display:flex;
+    flex-direction: row;
+    height:100px;
+    margin-top: 20px;
+}
+
+.product img{
+    height:100px;
+    width:auto;
+}
+
+.pname{
+    margin-top: 50px;
+    width: 900px;
+    margin-left: 20px;
+}
+.price{
+    margin-top: 50px;
+    width:100px;
+}
+.amount{
+    margin-top: 50px;
+    width:100px;
+}
+
+
+.done{
+    margin-top: 20px;
+    float: right;
+}
+
+.t-price{
+    float: right;
+    margin-right: 20px;
+    font-size: 20px;
+}
